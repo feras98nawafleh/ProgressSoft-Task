@@ -1,0 +1,2 @@
+please select the interview-task-main folder as the project source not the whole folder
+(ferasnawafleh-interview-task) in order to run the project well and avoid new configurations settings.
